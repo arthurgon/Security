@@ -14,9 +14,7 @@
 	<name>OAMTokenValidator</name>
 	<description>Demo project for Spring Boot to token validator at JWT</description>
 
-	<properties>
-		<java.version>1.8</java.version>
-	</properties>
+	
 
 	<dependencies>
 		<dependency>

@@ -8,6 +8,7 @@ public class OamTokenValidatorApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(OamTokenValidatorApplication.class, args);
+		System.out.println("Teste.");
 	}
 
 }
